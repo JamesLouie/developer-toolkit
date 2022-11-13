@@ -22,3 +22,6 @@ alias gitc="git commit -m"
 alias gitcl="git clone"
 alias gitu="git reset HEAD~; gits;"
 alias gitp="git push -u origin HEAD"
+
+## Github
+alias gh-view="gh repo view -w" # Opens current repository in web browser
